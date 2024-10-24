@@ -38,7 +38,7 @@
 6) PAGEKITE (https://pagekite.net/)
 
 # SCREENSHOT (Android-Userland)
-![Shot](https://gitlab.com/An0nUD4Y/hiddeneye/-/raw/master/Screenshot.png)
+![Shot](https://gitlab.com/hackinter/hiddeneye/-/raw/master/Screenshot.png)
 
 
 ## CREDIT:-
@@ -98,7 +98,7 @@
   - For Further instruction [Check Instructions](https://gitlab.com/An0nUD4Y/hiddeneye/-/blob/master/instructions.md)
   - Termux Users Clone With This Command , Unless Errors may occur during Running.
 ```
-git clone -b Termux-Support-Branch https://gitlab.com/an0nud4y/HiddenEye.git
+git clone -b Termux-Support-Branch https://gitlab.com/hackinter/HiddenEye.git
 
 ```
 **5) NEW LOOK PROVIDED**
@@ -133,7 +133,7 @@ git clone -b Termux-Support-Branch https://gitlab.com/an0nud4y/HiddenEye.git
   - GDRIVE (By @thewhiteh4t)
 ## [Check This](https://youtu.be/InSdtLhZzk4) Demonstration video to know How (Location) Social-Engineering-Tool Works.
  
-## FOR FURTHER INSTALLATION PROCEDURE - [(CHECK INSTRUCTIONS)](https://gitlab.com/An0nUD4Y/hiddeneye/-/blob/master/instructions.md)
+## FOR FURTHER INSTALLATION PROCEDURE - [(CHECK INSTRUCTIONS)]([https://gitlab.com/An0nUD4Y/hiddeneye/-/blob/master/instructions.md](https://github.com/hackinter/HiddenEye/tree/main?tab=readme-ov-file))
 
 </p>
 
