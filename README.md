@@ -1,8 +1,3 @@
-<p align="left">
-  <a href="#" title="HACKINTER">
-    <img src="https://forthebadge.com/images/badges/hackinter-with-love.svg" alt="HACKINTER">
-  </a>
-</p>
 <p align="center">
   <img src="logo.png" alt="Logo">
 </p>
