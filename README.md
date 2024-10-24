@@ -1,6 +1,6 @@
 <p align="left">
   <a href="#" title="HACKINTER">
-    <img src="https://forthebadge.com/images/badges/built-with-love.svg" alt="Built with Love">
+    <img src="https://forthebadge.com/images/badges/built-with-love.svg" alt="HACKINTER">
   </a>
 </p>
 <p align="center">
@@ -16,8 +16,8 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/darksecdevelopers"><img title="Open Source Love" src="https://badges.frapsoft.com/os/v3/open-source.svg?v=102" ></a>
-  <a href="https://gitlab.com/an0nud4y/HiddenEye/releases"><img title="GitHub version" src="https://d25lcipzij17d.cloudfront.net/badge.svg?id=gh&type=6&v=0.5.3&x2=0" ></a>  
+  <a href="https://github.com/hackinter"><img title="Open Source Love" src="https://badges.frapsoft.com/os/v3/open-source.svg?v=102" ></a>
+  <a href="https://gitlab.com/hackinter/HiddenEye/releases"><img title="GitHub version" src="https://d25lcipzij17d.cloudfront.net/badge.svg?id=gh&type=6&v=0.5.3&x2=0" ></a>  
 </p>
 
 # DEVELOPERS & CONTRIBUTORS
