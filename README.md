@@ -1,5 +1,5 @@
 <p align="left">
-  <a><img title="Built With Love" src="https://forthebadge.com/images/badges/built-with-love.svg" ></a>
+  <a><img title="HACKINTER" src="https://forthebadge.com/images/badges/built-with-love.svg" ></a>
  </p>
 <p align="center">
   <img src="logo.png">  
@@ -38,7 +38,7 @@
 6) PAGEKITE (https://pagekite.net/)
 
 # SCREENSHOT (Android-Userland)
-![Shot](https://gitlab.com/hackinter/hiddeneye/-/raw/master/Screenshot.png)
+![Shot]([https://gitlab.com/hackinter/hiddeneye/-/raw/master/Screenshot.png](https://github.com/hackinter/HiddenEye/blob/main/Screenshot.png))
 
 
 ## CREDIT:-
