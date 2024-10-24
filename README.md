@@ -1,6 +1,6 @@
 <p align="left">
   <a href="#" title="HACKINTER">
-    <img src="https://forthebadge.com/images/badges/built-with-love.svg" alt="HACKINTER">
+    <img src="https://forthebadge.com/images/badges/hackinter-with-love.svg" alt="HACKINTER">
   </a>
 </p>
 <p align="center">
@@ -30,7 +30,7 @@
 6) Moltivie (https://github.com/Moltivie)
 7) endbehavi0r (https://github.com/endbehavi0r)
 8) HACKINTER (https://github.com/hackinter)
-9)___________ (WAITING FOR YOU)
+9) ___________ (WAITING FOR YOU)
 
 # AVAILABLE TUNNELLING OPTIONS**
 0) LOCALHOST 
