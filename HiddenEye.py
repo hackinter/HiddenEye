@@ -1,6 +1,6 @@
 #!/usr/bin/python3
 #
-# HiddenEye by https://github.com/DarkSecDevelopers
+# HiddenEye by https://github.com/hackinter
 #
 
 from Defs.Languages import *
