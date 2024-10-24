@@ -9,7 +9,7 @@ sudo hidden-eye
 ```
 ### CLONE
 ```
-git clone https://gitlab.com/an0nud4y/HiddenEye.git
+git clone https://gitlab.com/hackinter/HiddenEye.git
 ```
 
 ### RUNNING (In Linux)
@@ -96,7 +96,7 @@ sudo apt install python3 python3-pip unzip php git
 
 ```
 ```
-git clone https://gitlab.com/an0nud4y/HiddenEye.git
+git clone https://gitlab.com/hackinter/HiddenEye.git
 
 ```
 
@@ -136,7 +136,7 @@ pkg install git python php curl openssh grep
 ```
 
 ```
-git clone -b Termux-Support-Branch https://gitlab.com/an0nud4y/HiddenEye.git
+git clone -b Termux-Support-Branch https://gitlab.com/hackinter/HiddenEye.git
 ```
 
 ```
@@ -171,6 +171,6 @@ After opening Copy and run this Single Command.
 
 ```
 ```
-pkg install git python php curl openssh grep && git clone -b Termux-Support-Branch https://gitlab.com/an0nud4y/HiddenEye.git && chmod 777 HiddenEye && cd HiddenEye && pip install -r requirements.txt && pip install requests && python HiddenEye.py
+pkg install git python php curl openssh grep && git clone -b Termux-Support-Branch https://gitlab.com/hackintere/HiddenEye.git && chmod 777 HiddenEye && cd HiddenEye && pip install -r requirements.txt && pip install requests && python HiddenEye.py
 
 ```
