@@ -37,7 +37,7 @@
 6) PAGEKITE (https://pagekite.net/)
 
 # SCREENSHOT (Android-Userland)
-![Shot]([https://gitlab.com/hackinter/hiddeneye/-/raw/master/Screenshot.png](https://github.com/hackinter/HiddenEye/Screenshot.png))
+![Shot]([https://gitlab.com/hackinter/hiddeneye/-/raw/master/Screenshot.png]([https://github.com/hackinter/HiddenEye/Screenshot.png](https://github.com/hackinter/HiddenEye/blob/main/Screenshot.png)))
 
 
 ## CREDIT:-
