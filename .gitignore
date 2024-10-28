@@ -1,20 +1,23 @@
-
+# Compiled Python files
 *.pyc
 
-link\.url
+# Link files
+link.url
 
-log\.txt
+# Log files
+log.txt
 
+# Server files
 Server
 
+# Ngrok URL files
+ngrok.url
 
-ngrok\.url
+# Local Moltivie's virtual environment
+env/
 
-# Local Moltivie's virtual env
-env
-
-# Ignore vscode folder
-.vscode
+# Ignore Visual Studio Code folder
+.vscode/
 
 # Ignore created files by SendMail functions
 Defs/Send_Email/attachments/ip.txt
