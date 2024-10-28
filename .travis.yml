@@ -7,10 +7,15 @@ python:
   - "3.7-dev"  # 3.7 development branch
   - "3.8-dev"  # 3.8 development branch
   - "nightly"  # nightly build
+
 before_install:
-# command to install dependencies
+  # Grant execute permissions to the HiddenEye script
   - chmod a+x HiddenEye.py
+
 install:
+  # Install dependencies from requirements.txt
   - pip3 install -r requirements.txt
-# command to run tests
-script: sudo env "PATH=$PATH" ./HiddenEye.py  
+
+script:
+  # Run the main HiddenEye script
+  - sudo env "PATH=$PATH" ./HiddenEye.py
